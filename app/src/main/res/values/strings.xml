@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HttpBenchmark</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_benchmark">BenchmarkActivity</string>
+
+    <string name="benchmark_ms">%s ms</string>
+    <string name="benchmark_result">結果: %s ms</string>
+    <string name="benchmark_error">エラー</string>
+</resources>
